@@ -1,5 +1,5 @@
 {
-    "name": "teamones/json-rpc",
+    "name": "teamones/jsonrpc",
     "description": "webman framework json-rpc 2.0 component ",
     "type": "library",
     "license": "Apache License",
