@@ -1,0 +1,26 @@
+{
+    "name": "teamones/json-rpc",
+    "description": "webman framework json-rpc 2.0 component ",
+    "type": "library",
+    "license": "Apache License",
+    "authors": [
+        {
+            "name": "Weijer Cheng",
+            "email": "weiwei163@foxmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0",
+        "ext-json": "*",
+        "workerman/workerman": "^4.0.4",
+        "yurunsoft/yurun-http": "~4.3.6",
+        "workerman/http-client": "^0.1.7",
+        "php-http/socket-client": "^2.1",
+        "react/socket": "^1.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "teamones\\rpc\\": "src/"
+        }
+    }
+}
