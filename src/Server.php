@@ -1,6 +1,6 @@
 <?php
 
-namespace teamones\rpc;
+namespace Teamones\Rpc;
 
 class Server
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace teamones\rpc\common;
+namespace Teamones\Rpc\Common;
 
 
 class Request extends Rpc

@@ -1,6 +1,6 @@
 <?php
 
-namespace teamones\rpc\client;
+namespace Teamones\Rpc\Client;
 
 interface ClientInterface
 {

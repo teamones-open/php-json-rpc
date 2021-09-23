@@ -1,6 +1,6 @@
 <?php
 
-namespace teamones\rpc\server;
+namespace Teamones\Rpc\Server;
 
 interface ServerInterface
 {

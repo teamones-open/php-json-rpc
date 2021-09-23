@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "teamones\\rpc\\": "src/"
+            "Teamones\\Rpc\\": "src/"
         }
     }
 }
